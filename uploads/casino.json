@@ -1,0 +1,85 @@
+[
+  {
+    "name": "WORLD CASINO TEENPATTI",
+    "casinoProvider": "QT",
+    "providerCode": "EZU",
+    "gameId": "EZU-teenpatti",
+    "img": "/casino/casino4.jpeg",
+    "launch": "/qtech/lobbyUrl"
+  },
+  {
+    "name": "WORLD CASINO POKER",
+    "casinoProvider": "QT",
+    "providerCode": "EZU",
+    "gameId": "EZU-royalpoker",
+    "img": "/casino/casino5.jpeg",
+    "launch": "/qtech/lobbyUrl"
+  },
+  {
+    "name": "WORLD CASINO VIRTUAL GAMES",
+    "casinoProvider": "LOTUS",
+    "gameId": 56766,
+    "img": "/casino/casino6.jpeg",
+    "launch": "/lotus/launchUrl"
+  },
+  {
+    "name": "WORLD CASINO ROULETTE",
+    "casinoProvider": "QT",
+    "providerCode": "EZU",
+    "gameId": "EZU-roulette",
+    "img": "/casino/casino7.jpeg",
+    "launch": "/qtech/lobbyUrl"
+  },
+  {
+    "name": "WORLD CASINO 32 CARD",
+    "providerCode": "EZU-32cards",
+    "casinoProvider": "QT",
+    "img": "/casino/casino11.jpeg",
+    "launch": "/qtech/lobbyUrl"
+  },
+  {
+    "name": "STAR CASINO TEENPATTI",
+    "casinoProvider": "LOTUS",
+    "gameId": 56767,
+    "img": "/casino/casino3.jpeg",
+    "launch": "/lotus/launchUrl"
+  },
+  {
+    "name": "STAR CASINO UP DOWN",
+    "casinoProvider": "LOTUS",
+    "gameId": 98789,
+    "img": "/casino/casino9.jpeg",
+    "launch": "/lotus/launchUrl"
+  },
+  {
+    "name": "STAR CASINO VIRTUAL GAMES",
+    "casinoProvider": "LOTUS",
+    "gameId": 56766,
+    "img": "/casino/casino10.jpeg",
+    "launch": "/lotus/launchUrl"
+  },
+  {
+    "name": "EUROPEAN ROULETTE",
+    "casinoProvider": "QT",
+    "providerCode": "EVO",
+    "gameId": "EVO-roulette",
+    "img": "/casino/casino1.jpeg",
+    "launch": "/qtech/lobbyUrl"
+  },
+  {
+    "name": "CASINO TEENPATTI",
+    "casinoProvider": "QT",
+    "providerCode": "EVO",
+    "gameId": "EVO-teenpatti",
+    "img": "/casino/casino2.jpeg",
+    "launch": "/qtech/lobbyUrl"
+  },
+  {
+    "name": "AMERICAN ROULETTE",
+    "casinoProvider": "QT",
+    "providerCode": "EVO",
+    "gameId": "EVO-americanroulette",
+    "img": "/casino/casino8.jpeg",
+    "launch": "/qtech/lobbyUrl"
+  }
+]
